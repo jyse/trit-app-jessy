@@ -1,0 +1,7 @@
+.main {
+  flex: 0.8;
+  background: linear-gradient(rgb(108, 115, 87), rgb(255, 224, 0, 1));
+  padding: 10px 10px;
+  overflow-y: overlay;
+  min-height: 800px;
+}

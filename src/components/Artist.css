@@ -1,0 +1,26 @@
+.artist {
+  background-color: black;
+  height: 100px;
+  width: 75px;
+  padding: 10px;
+  margin: 10px;
+  display: inline-flex;
+  flex-direction: column;
+  border-radius: 4px;
+}
+
+.artist__picture > img {
+  height: 70px;
+}
+
+.artist__name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.artist h1 {
+  font-size: 11px;
+  text-align: center;
+  color: white;
+}
